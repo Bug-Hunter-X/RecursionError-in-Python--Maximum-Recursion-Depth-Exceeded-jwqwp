@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python programming: the RecursionError.  The `bug.py` file shows a recursive function that works for small inputs but fails for larger inputs due to exceeding the maximum recursion depth. The `bugSolution.py` provides a solution to fix this issue using iteration.
